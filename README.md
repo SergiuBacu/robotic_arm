@@ -1,6 +1,14 @@
 # robotic_arm
 6-Axis Arduino Based Robotic Arm
 
+Devices used:
+
+1) SainSmart 6-Axis Desktop Robotic Arm
+2) Arduino UNO
+3) Arduino Sensor Shield V5.0
+4) 36W power supply
+5) GUI
+
 The motion of the robotic arm, in all the 6 axis, is given by two types of servomotors, 4 MG966R servos, and 2 SG90 servos.
 The robotic arm is controlled through an Arduino UNO moterboard, an Arduino Sensor Shield v5.0, and Visual C# GUI.
 In order to be able to control the servos, they are connected to the digital ports of the motherboard, to match the PWM signal type and thus to be able to control them.
