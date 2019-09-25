@@ -14,5 +14,6 @@ The motion of the robotic arm, in all the 6 axes, is given by two types of servo
 Files in this project:
 
 Servo Control.ino - Controller code in C
+
 Robot GUI directory - GUI in C#
 
